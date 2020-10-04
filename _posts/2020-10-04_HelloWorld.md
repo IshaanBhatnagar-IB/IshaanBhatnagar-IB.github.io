@@ -1,6 +1,6 @@
 ---	---
-layout: post	layout: post
-title: You're up and running!	title: O/ Read my First Blog
+layout: post	
+title: You're up and running!	
 ---	---
 
 
