@@ -1,9 +1,11 @@
 ---
 layout: post
 title: O/ Read my First Blog
----
+
+
 
 Trying to get this website up and running today.
+---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
